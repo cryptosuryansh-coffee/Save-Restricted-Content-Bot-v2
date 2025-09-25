@@ -55,7 +55,7 @@
     
     "WEBSITE_URL": {
       "description": "Enter shortener website domain eg upshrink.com",
-      "value": "",
+      "value": "upshrink.com",
       "required": false
     },
     "AD_API": {
